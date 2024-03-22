@@ -23,19 +23,19 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aniket Mankar"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him/His"  
   bio              : "Exploring unlimited possibilities of AI"
   location         : "Dallas, TX"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "aniketmankar63@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -43,7 +43,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "aniketbmankar"
-  kaggle           : # Username  
+  kaggle           : "aniketmankar63" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
